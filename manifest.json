@@ -3,6 +3,8 @@
   "name": "Quick Filter for Reddit",
   "version": "0.1.0",
   "description": "Unofficial. Adds a button to filter Reddit by content type, subreddit flair and region, and to hide types you don't want.",
+  "author": "dungdilldev",
+  "homepage_url": "https://github.com/dungdilldev/Quick-Filter-for-Reddit",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png",
